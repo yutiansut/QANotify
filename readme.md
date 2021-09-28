@@ -12,6 +12,9 @@
 
 提供以下三个推送模板
 
+![image.png](http://picx.gulizhu.com/FsZYr5GgqHiVFIMOh5g22ikRmUCF)
+
+![image.png](http://picx.gulizhu.com/Fv02DqaI0CNqzmL1tIba9vQmOLzw)
 
 1. 策略下单推送
 
@@ -57,3 +60,4 @@
     limitprice=22,
     order_id='N'
     ```
+
